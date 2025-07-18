@@ -23,7 +23,7 @@ repository               : "antoineinria/antoineinria.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/noir.png"
+  avatar           : "noir.png"
   name             : "Antoine Franchini"
   pronouns         : # example: "she/her"  
   bio              : "I am a PhD student at Inria Grenoble Alpes, working on extreme values statistic."
