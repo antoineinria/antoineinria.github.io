@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-site_theme               : "Modernist"
+locale                   : "en-UK"
+site_theme               : "Minimal"
 title                    : "Antoine Franchini"
 title_separator          : "-"
 name                     : &name "Antoine Franchini"
