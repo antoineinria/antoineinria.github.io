@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "Minimal"
+site_theme               : "Modernist"
 title                    : "Antoine Franchini"
 title_separator          : "-"
 name                     : &name "Antoine Franchini"
