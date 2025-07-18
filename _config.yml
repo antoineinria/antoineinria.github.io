@@ -22,7 +22,7 @@ repository               : "antoineinria/antoineinria.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "noir.png"
+  avatar           : "/images/noir.png"
   name             : "Antoine Franchini"
   pronouns         : # example: "she/her"  
   bio              : "I am a PhD student at Inria Grenoble Alpes, working on extreme values statistic."
@@ -120,7 +120,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -133,7 +133,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # twitter
 facebook:
   username               :
   app_id                 :
