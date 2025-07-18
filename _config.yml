@@ -24,7 +24,7 @@ repository               : "antoineinria/antoineinria.github.io"
 author:
   # Biographic information
   avatar           : "/images/noir.png"
-  name             : "Antoine Franchini"
+  name             : #"Antoine Franchini"
   pronouns         : # example: "she/her"  
   bio              : "I am a PhD student at Inria Grenoble Alpes, working on extreme values statistic."
   location         : "Grenoble, France"
