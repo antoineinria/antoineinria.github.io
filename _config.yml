@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-layout                   : compress
+
 locale                   : "en-UK"
 site_theme               : jekyll-theme-minimal
 title                    : "Antoine Franchini"
