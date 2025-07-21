@@ -9,11 +9,14 @@ location: "Grenoble, France"
 
 Algebra and Analysis seminars for 1st year student in Phyics Bachelor.
 
-Heading 1
+Limits, continuity and derivability
 ======
 
-Heading 2
+Series expansion
 ======
 
-Heading 3
+Vectorial spaces
+======
+
+Linear applications
 ======
