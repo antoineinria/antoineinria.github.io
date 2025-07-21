@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Tutorials in mathematics, 1st year of physics bachelor"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Tutorials"
+venue: "Université Grenoble Alpes, Mathematics department"
+date: 2025-01-01
+location: "Grenoble, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Algebra and Analysis tutorials for 1st year student in Phyics Bachelor.
 
 Heading 1
 ======
