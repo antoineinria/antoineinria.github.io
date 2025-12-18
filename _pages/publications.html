@@ -5,3 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+<div class="publications">
+  <h1>Publications</h1>
+  <ul>
+    {% for publication in site.publications %}
+      <li>
+        <a href="{{ publication.url }}">{{ publication.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
