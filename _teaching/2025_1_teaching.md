@@ -1,7 +1,7 @@
 ---
-title: "Seminars in mathematics, 1st year of physics bachelor"
+title: "Courses in mathematics, 1st year of physics bachelor"
 collection: teaching
-type: "Seminar"
+type: "Courses"
 venue: "Université Grenoble Alpes, Mathematics department"
 date: 2025-01-01
 location: "Grenoble, France"
