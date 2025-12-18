@@ -7,7 +7,7 @@ date: 2025-09-01
 location: "Grenoble, France"
 ---
 
-Practical courses of essential notions in statistics for 2nd years of biology and chemistry bachelors.
+Practical courses of essential notions in statistics for 2nd years of biology and chemistry bachelors. Notions of programming in R language.
 
 Descriptive statistics
 ======
