@@ -6,7 +6,7 @@ permalink: /publication/2025-10-01-adaptative-ci
 excerpt: 'This is a work on an adaptative confidence interval for extreme quantiles from heavy-tailed distribution'
 date: 2025-10-01
 venue: ' '
-paperurl: '[http://academicpages.github.io/files/paper3.pdf](https://hal.science/hal-05322341)'
+paperurl: 'https://hal.science/hal-05322341'
 citation: 'Antoine Franchini, Stéphane Girard, Anne Dutfoy. Adaptive confidence intervals for extreme quantiles from heavy-tailed distributions. 2025. ⟨hal-05322341⟩'
 ---
 
